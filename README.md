@@ -2,6 +2,8 @@
 
 This Streamlit application provides a chat interface for interacting with the Ollama AI model. It supports multiple conversations and real-time streaming of responses.
 
+<img width="1919" alt="Screenshot 2024-10-01 at 4 27 01 PM" src="https://github.com/user-attachments/assets/52270e50-a7ea-45b5-ab66-30f2ba913e77">
+
 ## Prerequisites
 
 - Python 3.8 or higher
