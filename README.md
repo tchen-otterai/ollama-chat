@@ -72,7 +72,3 @@ This Streamlit application provides a chat interface for interacting with the Ol
 ## Contributing
 
 Feel free to fork this repository and submit pull requests for any enhancements you develop!
-
-## License
-
-[Specify your license here, e.g., MIT, GPL, etc.]
