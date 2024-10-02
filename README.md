@@ -63,7 +63,7 @@ This Streamlit application provides a chat interface for interacting with the Ol
 
 ## Customization
 
-- To change the Ollama model, modify the `"model"` parameter in the `stream_response` function in `app.py`.
+- To change the Ollama model, modify the `LLAMA_MODEL` constant at the beginning of `app.py`.
 - Adjust the `OLLAMA_API_URL` if your Ollama instance is running on a different port or machine.
 
 ## Troubleshooting

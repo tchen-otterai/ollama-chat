@@ -7,10 +7,11 @@ import time
 # Ollama API endpoint
 OLLAMA_API_URL = "http://localhost:11434/api/chat"
 DATA_DIR = "data"
+LLAMA_MODEL = "llama3.1"
 
 def stream_response(messages):
     response = requests.post(OLLAMA_API_URL, json={
-        "model": "llama3.1",
+        "model": LLAMA_MODEL,
         "messages": messages,
         "stream": True
     }, stream=True)
