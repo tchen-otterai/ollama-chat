@@ -46,12 +46,13 @@ This Streamlit application provides a chat interface for interacting with the Ol
 
 1. Make sure your virtual environment is activated.
 
-2. Run the Streamlit app:
+2. Adjust your model version constant. The default setting is `LLAMA_MODEL = "llama3.1"`
+
+3.  Run the Streamlit app:
    ```
    streamlit run app.py
    ```
-
-3. Open your web browser and navigate to the URL provided by Streamlit (usually `http://localhost:8501`).
+4. Open your web browser and navigate to the URL provided by Streamlit (usually `http://localhost:8501`).
 
 ## Usage
 
